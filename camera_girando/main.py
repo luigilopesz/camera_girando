@@ -3,6 +3,10 @@ import os
 from rich.console import Console
 import typer
 
+def main():
+    camera()
+
+
 app = typer.Typer()
 console = Console()
 
