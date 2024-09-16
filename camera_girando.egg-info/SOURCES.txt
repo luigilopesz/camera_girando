@@ -1,0 +1,15 @@
+LICENSE
+README.md
+setup.py
+camera_girando/__init__.py
+camera_girando/getcamera.py
+camera_girando/main.py
+camera_girando/my_lib.py
+camera_girando.egg-info/PKG-INFO
+camera_girando.egg-info/SOURCES.txt
+camera_girando.egg-info/dependency_links.txt
+camera_girando.egg-info/entry_points.txt
+camera_girando.egg-info/requires.txt
+camera_girando.egg-info/top_level.txt
+camera_girando/assets/poetry.txt
+camera_girando/assets/test_folder/test_something.txt

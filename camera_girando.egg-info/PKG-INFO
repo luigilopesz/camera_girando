@@ -1,0 +1,53 @@
+Metadata-Version: 2.1
+Name: camera_girando
+Version: 0.1.0
+Summary: camera girando APS3
+Home-page: https://github.com/luigilopesz/camera_girando
+Author: Luigi Lopes
+Author-email: luigilopes09@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.11
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: camera_girando@ file:///C:/Users/luigi/3insper242/algelinha/camera_girando
+Requires-Dist: click==8.1.7
+Requires-Dist: colorama==0.4.6
+Requires-Dist: markdown-it-py==3.0.0
+Requires-Dist: mdurl==0.1.2
+Requires-Dist: numpy==2.1.1
+Requires-Dist: opencv-python==4.10.0.84
+Requires-Dist: pandas==2.2.2
+Requires-Dist: Pygments==2.18.0
+Requires-Dist: python-dateutil==2.9.0.post0
+Requires-Dist: pytz==2024.1
+Requires-Dist: rich==13.8.0
+Requires-Dist: shellingham==1.5.4
+Requires-Dist: six==1.16.0
+Requires-Dist: typer==0.12.5
+Requires-Dist: typing_extensions==4.12.2
+Requires-Dist: tzdata==2024.1
+
+# hello_world
+Um pacote minimalista em Python
+
+Para instalar, você pode usar uma de duas maneiras.
+
+A primeira maneira é clonar o repositório e fazer uma instalação local:
+
+    git clone https://github.com/tiagoft/hello_world.git
+    cd hello_world
+    pip install .
+
+A segunda maneira é instalar direto do repositório:
+
+    pip install git+https://github.com/usuario/repositorio.git
+
+Após instalar, o programa `tiago_hello_world` deve estar instalado. Então, executando o comando:
+
+    tiago_hello_world
+
+seu programa deveria imprimir a string `Hello world!` na tela.
+
+
