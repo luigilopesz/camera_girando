@@ -29,3 +29,6 @@ def run():
     APS 3 de LUIGI LOPES
     """
     camera()
+
+if __name__ == '__main__':
+    app()
