@@ -1,4 +1,4 @@
-from camera_girando.main import *
+from camera_girando.getcamera import *
 import os
 from rich.console import Console
 import typer
@@ -28,7 +28,7 @@ def run():
     """
     APS 3 de LUIGI LOPES
     """
-    camera_girando.camera()
+    camera()
 
 if __name__ == "__main__":
     app()
