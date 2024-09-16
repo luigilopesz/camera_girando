@@ -14,7 +14,7 @@ setup(
   url="https://github.com/luigilopesz/camera_girando",
   entry_points={
     'console_scripts': [
-      'camera_girando=camera_girando.main:main',
+      'teste=camera_girando.main:main',
     ],
   },
   classifiers=[
