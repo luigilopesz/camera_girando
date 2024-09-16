@@ -1,4 +1,4 @@
-import camera_girando
+from camera_girando.main import *
 import os
 from rich.console import Console
 import typer
