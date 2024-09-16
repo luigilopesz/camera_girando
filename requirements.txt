@@ -1,4 +1,4 @@
-camera_girando @ file:///C:/Users/luigi/3insper242/algelinha/camera_girando/camera_girando
+main @ file:///C:/Users/luigi/3insper242/algelinha/camera_girando/camera_girando
 click==8.1.7
 colorama==0.4.6
 markdown-it-py==3.0.0
