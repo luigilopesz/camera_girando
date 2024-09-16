@@ -13,7 +13,7 @@ setup(
     "colorama==0.4.6",
     "markdown-it-py==3.0.0",
     "mdurl==0.1.2",
-    "numpy==2.1.1",
+    "numpy",
     "opencv-python==4.10.0.84",
     "pandas==2.2.2",
     "Pygments==2.18.0",
